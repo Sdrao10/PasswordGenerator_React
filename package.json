@@ -1,11 +1,11 @@
 {
-  "homepage": "https://Sdrao10.github.io/PasswordGenerator_React",
+  
   "name": "passwordgenerator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run dev",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
